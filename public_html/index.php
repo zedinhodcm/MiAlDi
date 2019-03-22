@@ -1,1 +1,1 @@
-<?php header('../Klima/index.php'); ?>
+<?php header('Klima/index.php'); ?>
