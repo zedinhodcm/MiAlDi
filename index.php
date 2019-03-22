@@ -1,1 +1,1 @@
-<?php header('/Klima/index.html'); ?>
+<?php header( 'Location: /Klima/index.html' ); ?>
