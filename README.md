@@ -4,4 +4,8 @@ Smart Home
 
 Klima
 
-Ambiance
+Ambiance->da kommt noch Licht und Sound rein
+
+Heizung
+
+Storen
