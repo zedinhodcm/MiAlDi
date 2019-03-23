@@ -13,3 +13,5 @@ Heizung
 Storen
 Hallo Leute das muss ++ sein
 Hinzufügen
+Buttons für touch optimiert
+Fonts vergrössert
