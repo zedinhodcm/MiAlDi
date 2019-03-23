@@ -19,3 +19,4 @@ Fonts vergrössert
 2 Branches erstellt:
 - stable (Kundenversion)
 - feature (Entwicklerversion)
+- feature (Zusatz Alex)
